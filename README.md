@@ -1,8 +1,8 @@
 # Mahta Sharifi
 
-**Backend Developer · Python & Django · Internal Systems · Database Design**
+I build backend systems with Python and Django, with a focus on database-driven applications, internal business workflows, access control, and maintainable backend architecture.
 
-I build practical backend systems with a focus on Django, database-driven applications, internal business workflows, access control, and maintainable system architecture.
+My work includes requirement analysis, database design, backend development, internal system development, deployment, support, and continuous feature improvement.
 
 ## Tech Stack
 
@@ -13,20 +13,6 @@ I build practical backend systems with a focus on Django, database-driven applic
 **Tools & Workflow:** `Docker` · `Git` · `GitHub`
 
 **Frontend Basics:** `HTML` · `CSS` · `JavaScript`
-
-## Selected Work
-
-### [Library Management System](https://github.com/mahtasharifi/library-management-system)
-
-Production-oriented Django library management system adapted from a real-world deployment, with MFA, role-based administration, digital and physical book workflows, XLSX imports, background processing, security controls, and Docker-based deployment.
-
-**[Live System](https://library.neshagroup.ir/)** · **[Repository](https://github.com/mahtasharifi/library-management-system)**
-
-### Mentoring & Information Management System
-
-Internal business system covering the mentoring process from pre-mentoring to post-mentoring, including mentor and mentee management, matching, session management, reporting, role-based access control, internal forms, and Excel import/export.
-
-`Professional internal project · Source code private`
 
 ## Portfolio
 
