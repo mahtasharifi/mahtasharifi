@@ -28,11 +28,6 @@ My experience, projects, skills, education, and certifications are available in 
 
 **[View Portfolio Repository](https://github.com/mahtasharifi/django-resume)**
 
-## Certifications
-
-- [Advanced Python](https://maktabkhooneh.org/certificates/MK-9CLT1C/)
-- [Python Fundamentals](https://maktabkhooneh.org/certificates/MK-USTT3Y)
-
 ## Contact
 
 **Email:** [mahtasharifi45@gmail.com](mailto:mahtasharifi45@gmail.com)
