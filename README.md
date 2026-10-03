@@ -14,6 +14,6 @@ My work also includes requirement analysis, database design, deployment, support
 
 ## Portfolio
 
-Experience, projects, skills, education, and certifications:
+Explore my experience, projects, skills, education, and certifications:
 
 **[View My Django Portfolio](https://github.com/mahtasharifi/django-resume)**
